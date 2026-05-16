@@ -1,0 +1,1 @@
+print("holamundo, futuro ingeniero de ia")
